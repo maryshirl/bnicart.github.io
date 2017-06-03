@@ -7,27 +7,27 @@ highlighter: rouge
 markdown: kramdown
 disqus: dbyll
 google_analytics: dbyll
-title: dbyll
+title: Hi! I'm Billy Nicart
 
 defaults:
   -
     scope:
       path: "" # empty string for all files
     values:
-      title: dbyll
+      title: Billy
 
 description: Stylish Jekyll Theme
 author:
-  name: dbyll
-  email: dbyll@ismaildemirbilek.com
-  github: dbtek
-  twitter: dbtek
-  pinterest: asd123
-  linkedin: asd123
-  bio: Your stylish, minimalist theme!
-  email_md5: 726351295ec82e145928582f595aa3aa
+  name: Billy Nicart Jr
+  email: billy.nicart@gmail.com
+  github: bnicart
+  twitter: itsmebilly1201
+  pinterest:
+  linkedin:
+  bio: Front-end developer who really plays around code.
+  email_md5:
 
-rss_path: feed.xml
+rss_path: 
 categories_path: categories.html
 tags_path: tags.html
 
